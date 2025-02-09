@@ -1,1 +1,1 @@
-[Görseli Aç](https://blueprintue.com/render/kg6x28ei/)
+![Blueprint UE](https://kullaniciadi.github.io/UE4-TankBlueprints/)
